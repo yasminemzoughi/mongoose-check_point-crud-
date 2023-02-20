@@ -1,0 +1,18 @@
+.CARD{
+   display: flex; 
+   flex-wrap: wrap;
+justify-content: space-between;
+margin: 2%;
+justify-content: space-around;
+
+}
+
+.pic{
+   
+    justify-content: center;
+    margin-top: 2%;
+    height: 35%;
+}
+.BTN1{
+    margin: 12%;
+}
